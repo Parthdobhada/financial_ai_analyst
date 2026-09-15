@@ -314,34 +314,6 @@ Open the app in your browser:
 http://localhost:8501
 ```
 
-## How To Add Screenshots To README
-
-1. Run the app:
-
-```bash
-streamlit run app.py
-```
-
-2. Open each dashboard page in your browser.
-3. Take screenshots using `Win + Shift + S` on Windows.
-4. Save the screenshots in this folder:
-
-```text
-assets/screenshots/
-```
-
-5. Use these exact file names:
-
-```text
-company-overview.png
-ratio-analysis.png
-stock-performance.png
-dcf-valuation.png
-investor-insights.png
-```
-
-GitHub will automatically display them in the README.
-
 ## Important Financial Metrics Used
 
 - Gross Margin
